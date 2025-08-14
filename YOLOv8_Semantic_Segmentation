@@ -1,0 +1,2 @@
+This is a project where I have created onnx model from yolov8m-seg.pt and then run semantic segmentation on images.
+Please check the full highlights from youtube: https://youtu.be/z6DLQCSUUHI
