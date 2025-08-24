@@ -1,0 +1,3 @@
+This is my first semantic segmentation project. I have used DeepLabv3 VOC Classes based TensorRT Engine for 400x400 dynamic input to get hardware acceleration to segment real-time on mobile hardware.
+chech the full result highlights:
+https://youtu.be/zMpaRBl7RfE?si=Tvdm7-Rg8JyUfEmA
