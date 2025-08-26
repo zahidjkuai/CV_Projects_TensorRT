@@ -1,0 +1,4 @@
+SegformerForSemanticSegmentation: A transformer-based model for semantic segmentation.
+Used the SegFormer-B0 model fine-tuned on the ADE20K dataset.
+Watch the full Highlights:
+https://youtu.be/vIvCMh9YeDw
